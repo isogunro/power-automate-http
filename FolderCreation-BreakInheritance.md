@@ -12,7 +12,7 @@
 ## Get By Email -> Compose
 ![uri](https://github.com/isogunro/power-automate-http/blob/main/images/Compose-getPrincipalID_2.png)
 
-***body('Get_By_Email')['d']['id']***
+Compose -> Expression ***body('Get_By_Email')['d']['id']***
 
 Roles you can specify for the above:
 - Edit: 1073741830
