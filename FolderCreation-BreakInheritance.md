@@ -10,7 +10,7 @@
 
 
 ## Get By Email -> Compose
-![uri](https://github.com/isogunro/power-automate-http/blob/main/images/Compose-getPrincipalID_2.PNG)
+![uri](https://github.com/isogunro/power-automate-http/blob/main/images/Compose-getPrincipalID_2.png)
 
 ***body('Get_By_Email')['d']['id']***
 
