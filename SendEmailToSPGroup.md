@@ -4,7 +4,7 @@
 
 EXPANDED
 ![image](https://github.com/isogunro/power-automate-http/assets/19296277/6eef0a26-6f74-4ed0-9757-b2b90da60333)
-![image](https://github.com/isogunro/power-automate-http/assets/19296277/4c584e16-aad4-46a7-8d12-008ce514d283)
+![image](https://github.com/isogunro/power-automate-http/assets/19296277/9a80ad00-296f-4203-bf4e-6c8d1277793d)
 ![image](https://github.com/isogunro/power-automate-http/assets/19296277/47aa08af-9c2c-4db2-8410-7f2a7e2bca75)
 
   
